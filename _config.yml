@@ -23,12 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "E:\个人\证件照\1.png"
   name             : "Teng Long"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Capital Normal University"
   location         : "Beijing, China"
-  employer         : "Capital Normal University"
   uri              : # URL
   email            : "dragon_jump@163.com" 
 
