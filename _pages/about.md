@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 - Organic microcavity exciton polaritons
-- Photon spin‒orbit coupling
+- Photon spin‒orbit couplingd
 - Polariton laser
 
 Education:
