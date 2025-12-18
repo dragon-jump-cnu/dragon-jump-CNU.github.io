@@ -9,12 +9,12 @@
 
 main:
   - title: "About Me"
-    url: /talks/
+    url: "/#about-me"
 
   - title: "Publications"
-    url: /publications/
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: /teaching/    
+    url: "/#-honors-and awards"   
     
   
