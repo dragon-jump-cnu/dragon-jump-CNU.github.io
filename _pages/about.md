@@ -29,8 +29,8 @@ Collaborator
 
 Publication:
 ------
-- ["Helical Polariton Lasing from Topological Valleys in an Organic Crystalline Microcavity"](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202203588). Adv. Sci. 9, 2203588 (2022).
-- "Dual Orthogonally Polarized Lasing Assisted by Imaginary Fermi Arcs in Organic Microcavities". Phy. Rev. Lett. 133, 123802 (2024).
-- "Spin-Valley-Locked Electroluminescence for High-Performance Circularly Polarized Organic Light-Emitting Diodes". J. Am. Chem. Soc. 146, 30990-30997 (2024).
-- "微腔激子极化激元的自旋轨道耦合效应". 中国激光 51, 1800002 (2024).
-- [MathJax](https://www.mathjax.org/) for mathematical equations
+- ["Helical Polariton Lasing from Topological Valleys in an Organic Crystalline Microcavity".](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202203588) Adv. Sci. 9, 2203588 (2022).
+- ["Dual Orthogonally Polarized Lasing Assisted by Imaginary Fermi Arcs in Organic Microcavities".](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.123802) Phy. Rev. Lett. 133, 123802 (2024).
+- ["Spin-Valley-Locked Electroluminescence for High-Performance Circularly Polarized Organic Light-Emitting Diodes".](https://pubs.acs.org/doi/10.1021/jacs.4c10020) J. Am. Chem. Soc. 146, 30990-30997 (2024).
+- ["微腔激子极化激元的自旋轨道耦合效应".](https://www.opticsjournal.net/Articles/OJcce785eef061aa71/Abstract) 中国激光 51, 1800002 (2024).
+- ["Reservoir neuromorphic computing based on spin-orbit coupling in an organic crystal resonator".](https://arxiv.org/abs/2511.23155) 	arXiv:2511.23155 (2024).
