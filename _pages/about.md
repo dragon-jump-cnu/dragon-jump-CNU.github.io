@@ -26,3 +26,10 @@ Collaborator
 ------
 - Xuekai Ma (Department of Physics and Center for Optoelectronics and Photonics Paderborn (CeOPP), Paderborn University, 33098 Paderborn, Germany)
 - Dmitry Solnyshkov (Université Clermont Auvergne, Clermont Auvergne INP, CNRS, Institut Pascal, F-63000 Clermont-Ferrand, France)
+
+Publication:
+======
+- "Helical Polariton Lasing from Topological Valleys in an Organic Crystalline Microcavity". Adv. Sci. 9, 2203588 (2022).
+- "Dual Orthogonally Polarized Lasing Assisted by Imaginary Fermi Arcs in Organic Microcavities". Phy. Rev. Lett. 133, 123802 (2024).
+- "Spin-Valley-Locked Electroluminescence for High-Performance Circularly Polarized Organic Light-Emitting Diodes". J. Am. Chem. Soc. 146, 30990-30997 (2024).
+- "微腔激子极化激元的自旋轨道耦合效应". 中国激光 51, 1800002 (2024).
