@@ -19,13 +19,15 @@ Education:
 
 Tutor
 ------
-- Hongbin Fu (Beijing institute of petrochemical technology, China)
+- Hongbin Fu (Beijing Institute of Petrochemical Technology, China)
 - Qing Liao (Capital Normal University, China)
 
 Collaborator
 ------
-- Xuekai Ma (Paderborn University, Germany)
 - Dmitry Solnyshkov (Université Clermont Auvergne, France)
+- Xuekai Ma (Paderborn University, Germany)
+- Feng Li (Xi'an Jiaotong University, China)
+
 
 Publication:
 ------
