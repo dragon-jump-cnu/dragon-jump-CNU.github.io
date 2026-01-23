@@ -35,4 +35,5 @@ Publication:
 - ["Dual Orthogonally Polarized Lasing Assisted by Imaginary Fermi Arcs in Organic Microcavities".](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.123802) Phy. Rev. Lett. 133, 123802 (2024).
 - ["Spin-Valley-Locked Electroluminescence for High-Performance Circularly Polarized Organic Light-Emitting Diodes".](https://pubs.acs.org/doi/10.1021/jacs.4c10020) J. Am. Chem. Soc. 146, 30990-30997 (2024).
 - ["微腔激子极化激元的自旋轨道耦合效应".](https://www.opticsjournal.net/Articles/OJcce785eef061aa71/Abstract) 中国激光 51, 1800002 (2024).
-- ["Reservoir neuromorphic computing based on spin-orbit coupling in an organic crystal resonator".](https://arxiv.org/abs/2511.23155) 	arXiv:2511.23155 (2024).
+- ["Optical spin Hall effect driven by hybrid spin-orbit coupling in organic microcavities".](https://www.sciencedirect.com/science/article/pii/S2095927325013337) Sci. Bull. DOI: 10.1016/j.scib.2025.12.056 (2025).
+- ["Reservoir neuromorphic computing based on spin-orbit coupling in an organic crystal resonator".](https://arxiv.org/abs/2511.23155) 	arXiv:2511.23155 (2025).
